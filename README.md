@@ -11,6 +11,7 @@ The goal is to extract meaningful patterns from the data and communicate the mai
 ## Dataset
 
 The dataset contains information about customers contacted during a bank marketing campaign.
+(link)
 
 ### Target Variable
 
