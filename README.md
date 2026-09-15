@@ -10,8 +10,19 @@ The goal is to extract meaningful patterns from the data and communicate the mai
 
 ## Dataset
 
-The dataset contains information about customers contacted during a bank marketing campaign.
-(link)
+The dataset used in this project is the **Bank Marketing** dataset from the **UCI Machine Learning Repository**.
+
+The dataset contains information about direct marketing campaigns conducted by a Portuguese banking institution through phone calls. The target variable `y` indicates whether the client subscribed to a term deposit (`yes` / `no`).
+
+* **Dataset:** Bank Marketing
+* **Source:** [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/222/bank%2Bmarketing)
+* **Instances:** 45,211
+* **Features:** 16 input features + 1 target variable
+* **Target Variable:** `y`
+* **File Used:** `bank-full.csv`
+
+The project uses the `bank-full.csv` version of the dataset, which contains 45,211 records and 17 variables in total.
+
 
 ### Target Variable
 
